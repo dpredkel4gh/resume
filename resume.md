@@ -11,18 +11,6 @@ Senior Software Engineer with 8+ years of experience in designing, developing, a
 
 ---
 
-## SKILLS
-
-- **Languages**: Java, Groovy, Scala, Python, JavaScript  
-- **Frameworks & Libraries**: Spring Framework, Guice, Hibernate  
-- **Databases**: SQL, MongoDB, Cassandra, ElasticSearch  
-- **Cloud & DevOps Tools**: AWS, Docker, Jenkins, Gradle, Git  
-- **Caching & Optimization**: Redis, Memcached  
-- **Other Methodologies**: CI/CD, Microservices, Agile  
-- **Languages**: English, Russian  
-
----
-
 ## EXPERIENCE
 
 ### **Senior Software Engineer**  
@@ -65,12 +53,32 @@ Senior Software Engineer with 8+ years of experience in designing, developing, a
 - Debugged and fixed issues while implementing changes for existing systems.
 - Worked across web, mobile, and desktop applications, providing full-stack solutions.
 
+### **Software Engineer**  
+**Engineering Security Systems LLC** | **February 2016 - August 2017 (1 year 7 month)**  
+
+- Designed and developed a project for prediction of the temperature of the fire in a room, with possibility to generate visual graphs and reports.
+- Created Web UI for the application.
+- Performed technical support and maintenance for the local network.
+
 ---
 
 ## EDUCATION
 
-**Bachelor’s Degree in Computer Technologies**  
-Belarusian State University of Informatics and Radioelectronics  
+**Bachelor’s degree, Software Engineer**  
+Belarusian State University of Informatics and Radioelectronics\
+Faculty of Computer Technologies
+
+---
+
+## SKILLS
+
+- **Languages**: Java, Groovy, Scala, Python, JavaScript  
+- **Frameworks & Libraries**: Spring Framework, Guice, Hibernate  
+- **Databases**: SQL, MongoDB, Cassandra, ElasticSearch  
+- **Cloud & DevOps Tools**: AWS, Docker, Jenkins, Gradle, Git  
+- **Caching & Optimization**: Redis, Memcached  
+- **Other Methodologies**: CI/CD, Microservices, Agile  
+- **Languages**: English, Russian  
 
 ---
 
