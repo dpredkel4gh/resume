@@ -77,8 +77,9 @@ Senior Software Engineer with 8+ years of experience in designing, developing, a
 
 ## EDUCATION
 
-**Bachelor’s Degree in Computer Technologies**  
-Belarusian State University of Informatics and Radioelectronics  
+**Bachelor’s degree, Software Engineer**  
+Belarusian State University of Informatics and Radioelectronics
+Faculty of Computer Technologies
 
 ---
 
