@@ -11,18 +11,6 @@ Senior Software Engineer with 8+ years of experience in designing, developing, a
 
 ---
 
-## SKILLS
-
-- **Languages**: Java, Groovy, Scala, Python, JavaScript  
-- **Frameworks & Libraries**: Spring Framework, Guice, Hibernate  
-- **Databases**: SQL, MongoDB, Cassandra, ElasticSearch  
-- **Cloud & DevOps Tools**: AWS, Docker, Jenkins, Gradle, Git  
-- **Caching & Optimization**: Redis, Memcached  
-- **Other Methodologies**: CI/CD, Microservices, Agile  
-- **Languages**: English, Russian  
-
----
-
 ## EXPERIENCE
 
 ### **Senior Software Engineer**  
@@ -72,7 +60,6 @@ Senior Software Engineer with 8+ years of experience in designing, developing, a
 - Created Web UI for the application.
 - Performed technical support and maintenance for the local network.
 
-
 ---
 
 ## EDUCATION
@@ -80,6 +67,18 @@ Senior Software Engineer with 8+ years of experience in designing, developing, a
 **Bachelor’s degree, Software Engineer**  
 Belarusian State University of Informatics and Radioelectronics\
 Faculty of Computer Technologies
+
+---
+
+## SKILLS
+
+- **Languages**: Java, Groovy, Scala, Python, JavaScript  
+- **Frameworks & Libraries**: Spring Framework, Guice, Hibernate  
+- **Databases**: SQL, MongoDB, Cassandra, ElasticSearch  
+- **Cloud & DevOps Tools**: AWS, Docker, Jenkins, Gradle, Git  
+- **Caching & Optimization**: Redis, Memcached  
+- **Other Methodologies**: CI/CD, Microservices, Agile  
+- **Languages**: English, Russian  
 
 ---
 
