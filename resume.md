@@ -65,6 +65,14 @@ Senior Software Engineer with 8+ years of experience in designing, developing, a
 - Debugged and fixed issues while implementing changes for existing systems.
 - Worked across web, mobile, and desktop applications, providing full-stack solutions.
 
+### **Software Engineer**  
+**Engineering Security Systems LLC** | **February 2016 - August 2017 (1 year 7 month)**  
+
+- Designed and developed a project for prediction of the temperature of the fire in a room, with possibility to generate visual graphs and reports.
+- Created Web UI for the application.
+- Performed technical support and maintenance for the local network.
+
+
 ---
 
 ## EDUCATION
